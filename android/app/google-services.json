@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "80839541194",
+    "project_id": "fire-quizzapp",
+    "storage_bucket": "fire-quizzapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80839541194:android:49f9fcfd58d4c01106cf33",
+        "android_client_info": {
+          "package_name": "io.roydev.quizzapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80839541194-c3hjo3e7vij2ce7d52smsc3der8lm2fh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.roydev.quizzapp",
+            "certificate_hash": "cfdde6496a0ef7409eecd77bf0a18abd52f64d4b"
+          }
+        },
+        {
+          "client_id": "80839541194-muftb4pjagl7fcsvc6pv655unajeseob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb_EkP0rt3y3S6WUxt1WMDVbCWfDZnpKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80839541194-muftb4pjagl7fcsvc6pv655unajeseob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
