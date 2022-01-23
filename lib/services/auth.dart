@@ -1,6 +1,3 @@
-import 'dart:math';
-
-import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:google_sign_in/google_sign_in.dart';
 
@@ -27,7 +24,7 @@ class AuthService {
     try {
       print('Google login ...');
       final googleUser = await GoogleSignIn().signIn();
-      print('Google signin ok ... ${googleUser}');
+      print('Google signin ok ... $googleUser');
 
       if (googleUser == null) return;
 

@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:quizzapp/screens/login/login.dart';
 import 'package:quizzapp/screens/topics/topics.dart';
 import 'package:quizzapp/services/auth.dart';
-import 'package:quizzapp/shared/bottom_nav.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({Key? key}) : super(key: key);

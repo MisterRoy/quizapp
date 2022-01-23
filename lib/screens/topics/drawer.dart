@@ -55,7 +55,6 @@ class QuizList extends StatelessWidget {
           margin: const EdgeInsets.all(4),
           child: InkWell(
             onTap: () {
-              print('Hello !');
               Navigator.of(context).push(
                 MaterialPageRoute(
                   builder: (context) => QuizScreen(quizId: quiz.id),

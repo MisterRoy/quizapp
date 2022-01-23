@@ -4,7 +4,6 @@ import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:provider/provider.dart';
 import 'package:quizzapp/routes.dart';
-import 'package:quizzapp/screens/home/home.dart';
 import 'package:quizzapp/services/firestore.dart';
 import 'package:quizzapp/services/models.dart';
 import 'package:quizzapp/theme.dart';

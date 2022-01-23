@@ -1,8 +1,5 @@
-import 'dart:ui';
-
 import 'package:flutter/material.dart';
 import 'package:quizzapp/screens/topics/drawer.dart';
-import 'package:quizzapp/screens/topics/topics.dart';
 import 'package:quizzapp/services/models.dart';
 import 'package:quizzapp/shared/progress_bar.dart';
 
