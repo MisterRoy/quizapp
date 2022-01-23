@@ -13,7 +13,7 @@
 
 - [Dart](https://dart.dev/) - A client-optimized language for developing fast apps on any platform.
 - [Flutter](https://flutter.dev/) - An open source framework by Google for building beautiful, natively compiled, multi-platform applications from a single codebase.
-- [Firebase](https://mui.com/) - A BaaS backed by Google
+- [Firebase](https://firebase.google.com/) - A BaaS backed by Google
 
 
 ## ⛓️Prerequisites
@@ -25,7 +25,7 @@
 
 #### Clone repository
 ```
-git clone https://github.com/MisterRoy/quizz-app-flutter.git
+git clone https://github.com/MisterRoy/quizapp.git
 ```
 
 #### Install dependencies
