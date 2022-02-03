@@ -3,7 +3,7 @@
 
 ## 🏁Description
 
-<div style="text-align: justify">Quiz App is cross-platform mobile app, that allows you to test your knowledge on various technologies through quizzes. It's built with Flutter & Dart, and targets primarily Android and iOS.</div>
+<div style="text-align: justify">Quiz App is a cross-platform mobile app, that allows you to test your knowledge on various technologies through quizzes. It's built with Flutter & Dart, and targets primarily Android and iOS.</div>
 
 ![login-screenshot](login.png) ![topics-screenshot](topics.png)
 ![demo-gif](demo.gif)
